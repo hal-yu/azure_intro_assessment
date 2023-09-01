@@ -1,19 +1,13 @@
 # Part 2: Azure Exploration
 
-## A. Identify & List Services: 
-### Choose at least 2 distinct services under each category
+## A & B. Identify Services and Provide Description 
 #### Database Services
-Azure Cosmos DB
-Data Migration Service
-
+1. Azure Cosmos DB: Build modern apps at any scale using a fast noSQL database with open APIs.
+2. Data Migration Service: Simplify on-premises database migration to the cloud.
 
 #### Storage Services
-Managed Disks
-Blob Storage
-
-## B. Service Description: 
-### Write brief description for each chosen service based on official documentation
-
+1. Managed Disks: Get high performance, durable block storage for Azure Virtual Machines with simplified management
+2. Blob Storage: Use massively scalable object storage for any type of unstructured data.
 
 ## C. Python Interaction: 
 ### How can you interact with this service using python
