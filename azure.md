@@ -1,11 +1,11 @@
 # Part 2: Azure Exploration
 
 ## A & B. Identify Services and Provide Description 
-#### Database Services
+### Database Services
 1. Azure Cosmos DB: Globally distributed database designed to enable developers to build modern applications at any scale using a fast NoSQL database with open APIs. It offers single-digit millisecond response times, automatic and instant scalability, along with guarenteed speed at any scale. It is beneficial by providing automatic management, updates, and patching.
 2. Azure SQL Database: Fully managed cloud-based relational database service to deploy and operate SQL server database. It handles database management functions such as upgrading, patching, backups, and monitoring. It offers high availability, performance, and sacalability and process non-relational database structures. 
 
-#### Storage Services
+### Storage Services
 1. Managed Disks: A type of storage with high performance, durable block storage for Azure Virtual Machines with simplified management
 2. Blob Storage: A cloud-based object storage for any type of unstructured data.
 
